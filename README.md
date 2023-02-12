@@ -2,7 +2,7 @@
 
 The script to install app on Proton X50 IHU for all model.
 
-Following app are included.
+Following apps are included.
 
 -	Android Auto (Head Unit Reloaded) ([Make sure you purchase HUR to show your support!](https://www.b3itlabs.com/prod.php?id=1))
 -	Autokit 2022 (Carlinkit required)
