@@ -4,7 +4,7 @@ The script to install app.
 
 Following app are included.
 
--	Android Auto (Head Unit Reloaded) (Make sure you purchase HUR to show your support!)
+-	Android Auto (Head Unit Reloaded) ([Make sure you purchase HUR to show your support!](https://www.b3itlabs.com/prod.php?id=1))
 -	Autokit 2022 (Carlinkit required)
 -	Back button
 -	Google Maps
