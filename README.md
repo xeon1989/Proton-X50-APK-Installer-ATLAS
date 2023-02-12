@@ -14,6 +14,13 @@ Following app are included.
 -	Waze
 -	Youtube Premium + MicroG
 
+|  |  |  |
+| :------: | :------: | :------: |
+| ![image](https://user-images.githubusercontent.com/17538895/218326292-b72d3841-f7c3-4295-83b9-865408cc607a.png) | ![image](https://user-images.githubusercontent.com/17538895/218326308-1be8bc9d-ca98-4576-a5e9-106017b4e8b1.png) | ![image](https://user-images.githubusercontent.com/17538895/218326316-45a299ac-ad9e-436a-90df-93d85fdb2449.png) |
+| ![image](https://user-images.githubusercontent.com/17538895/218326449-0580d6c7-3a98-437d-9980-97e274c4e449.png) | ![image](https://user-images.githubusercontent.com/17538895/218326454-d9c33978-267c-454d-a15e-a1deb5468311.png) | ![image](https://user-images.githubusercontent.com/17538895/218326463-5e182ceb-91c1-4408-b438-6c5525decc9c.png) |
+| ![image](https://user-images.githubusercontent.com/17538895/218326482-b29cbf4f-8e1b-406a-aca5-ad3add5380e3.png) | ![image](https://user-images.githubusercontent.com/17538895/218326490-bfe4528c-2785-4f91-ae0a-28bd946f81b8.png) | ![image](https://user-images.githubusercontent.com/17538895/218326496-bfb7f8fa-bf9a-4fd2-a0b1-e09ba039585b.png) |
+
+
 ## Install Apps
 1.	Download installation script with following link and unzip the file.
 
