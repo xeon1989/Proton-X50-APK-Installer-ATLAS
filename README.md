@@ -57,7 +57,7 @@ Following app are included.
 ## Important Notes
 1. QDLink will be disabled as it clashes with Android Auto wired. In case you need QDLink, Uninstall script will re-enable it. 
 2. It's recommended to disable notification of some apps such as Android Auto and Spotify. 
-3. If hou installed apps with any method other than this Installation Script, please DO NOT PROCEED with this scripts. the Installation / Uninstallation script WILL NOT WORKS as it was installed with different method, it's not compatible.
+3. If hou installed apps with any method other than this Installation Script, please DO NOT PROCEED with this scripts. The Installation / Uninstallation script WILL NOT WORKS as it was installed with different method, it's not compatible.
 
 ## TODO
 - Optimization of ATLAS
