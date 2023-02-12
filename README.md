@@ -51,7 +51,7 @@ Following app are included.
 
 
 5.	Eject USB from PC, plug it in IHU’s USB port. 
-6.	When the script start executing, IHU shows “Wireless Charging” screen. Wait patiently for around 5 min. 
+6.	When the script start executing, IHU shows “Wireless Charging” screen. Wait patiently for around 1 min. 
 7.	Once script ended, IHU shows Settings app. Apps is now uninstalled. 
 
 ## Important Notes
