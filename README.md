@@ -18,6 +18,7 @@ Following app are included.
 1.	Download installation script with following link and unzip the file.
 
 xxx...
+
 2.	Backup your file in USB, then format USB drive to file system FAT32.
 3.	Paste all files to root of USB drive in step 1 to USB.
 
@@ -35,6 +36,7 @@ xxx...
 2.	Download uninstallation script with following link and unzip the file.
 
 xxx...
+
 3.	Backup your file in USB, then format USB drive to file system FAT32. (can skip if done earlier)
 4.	Paste all files to root of USB drive in step 1 to USB.
 
