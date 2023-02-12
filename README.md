@@ -1,6 +1,6 @@
 # What is this?
 
-The script to install app on Proton X50 IHU for all model.
+The script to install apps on Proton X50 IHU for all model.
 
 Following apps are included.
 
