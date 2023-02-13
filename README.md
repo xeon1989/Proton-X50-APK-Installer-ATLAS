@@ -27,7 +27,6 @@ Following apps are included.
 https://drive.google.com/uc?id=1nHwelpBvjZb73XOZF8Q-x7ngEO4CTlMN&export=download (Currently overquota)
 https://we.tl/t-EyZSWIMM0d
 
-uploading mirror
 
 2.	Backup your file in USB, then format USB drive to file system FAT32.
 3.	Paste all files to root of USB drive in step 1 to USB.
