@@ -24,7 +24,9 @@ Following apps are included.
 ## Install Apps
 1.	Download installation script with following link and unzip the file.
 
-[Download here](https://drive.google.com/uc?id=1nHwelpBvjZb73XOZF8Q-x7ngEO4CTlMN&export=download)
+https://drive.google.com/uc?id=1nHwelpBvjZb73XOZF8Q-x7ngEO4CTlMN&export=download (Currently overquota)
+
+uploading mirror
 
 2.	Backup your file in USB, then format USB drive to file system FAT32.
 3.	Paste all files to root of USB drive in step 1 to USB.
@@ -42,7 +44,11 @@ Following apps are included.
 1.	Delete all files in USB drive. 
 2.	Download uninstallation script with following link and unzip the file.
 
-[Download here](https://drive.google.com/uc?id=1Qeo7QFBk7LWay0lwNTxw1uB7ky0N5XO2&export=download)
+https://drive.google.com/uc?id=1Qeo7QFBk7LWay0lwNTxw1uB7ky0N5XO2&export=download (Currently overquota)
+
+https://we.tl/t-VAqACx3pCq
+
+
 
 3.	Backup your file in USB, then format USB drive to file system FAT32. (can skip if done earlier)
 4.	Paste all files to root of USB drive in step 1 to USB.
