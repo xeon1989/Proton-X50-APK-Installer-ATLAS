@@ -28,9 +28,8 @@ Following apps are included.
 ## Install Apps
 1.	Download installation script with following link and unzip the file.
 
-(Currently overquota) https://drive.google.com/uc?id=1nHwelpBvjZb73XOZF8Q-x7ngEO4CTlMN&export=download 
 
-https://we.tl/t-EyZSWIMM0d
+https://we.tl/t-PTUnljkd1s
 
 
 2.	Backup your file in USB, then format USB drive to file system FAT32.
@@ -49,9 +48,8 @@ https://we.tl/t-EyZSWIMM0d
 1.	Delete all files in USB drive. 
 2.	Download uninstallation script with following link and unzip the file.
 
-https://drive.google.com/uc?id=1Qeo7QFBk7LWay0lwNTxw1uB7ky0N5XO2&export=download
 
-https://we.tl/t-VAqACx3pCq
+https://we.tl/t-MaW0DPERwJ
 
 
 
