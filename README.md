@@ -25,6 +25,10 @@ Following apps are included.
 | ![image](https://user-images.githubusercontent.com/17538895/218326482-b29cbf4f-8e1b-406a-aca5-ad3add5380e3.png) | ![image](https://user-images.githubusercontent.com/17538895/218326490-bfe4528c-2785-4f91-ae0a-28bd946f81b8.png) | ![image](https://user-images.githubusercontent.com/17538895/218326496-bfb7f8fa-bf9a-4fd2-a0b1-e09ba039585b.png) |
 
 
+##Before you start
+- If you updating from GKUI to ATLAS and you sideloaded in GKUI, to be on safe side, it's recommended to uninstall before proceed.
+
+
 ## Install Apps
 1.	Download installation script with following link and unzip the file.
 
