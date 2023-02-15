@@ -68,6 +68,7 @@ https://we.tl/t-MaW0DPERwJ
 7.	Once script ended, IHU shows Settings app. Apps is now uninstalled. 
 
 ## Important Notes
+1. If you are working on MacOS, read [this additional steps](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/issues/5) by fevernova90.
 1. QDLink will be disabled as it clashes with Android Auto wired. In case you need QDLink, Uninstall script will re-enable it. 
 2. It is recommended to disable notification of some apps such as Android Auto and Spotify. 
 3. If you installed apps with any method other than this Installation Script, please DO NOT PROCEED with this scripts. The Installation / Uninstallation script WILL NOT WORK as it is not compatible.
