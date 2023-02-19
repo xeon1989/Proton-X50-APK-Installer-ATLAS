@@ -5,7 +5,7 @@ This serve as workaround for enabling Steering Button control for Android Auto /
 While we have permanent solution (if there's one 😔 ), try following method:
 
 1. Ensure the phone connected to IHU's bluetooth "PROTON".
-2. Launch "Media" app via Widget at Home Screen. 
+2. Launch "Media" app via Widget at Home Screen. (You may open it via App screen or "Hi Proton" too!)
 
 <img src="https://user-images.githubusercontent.com/17538895/219961422-95c7e37b-e557-4473-95ab-d1d38b5d0ebc.png" width=50% height=50%>
 
