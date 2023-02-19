@@ -62,13 +62,12 @@ https://we.tl/t-LMlQfyHhJU
 
 ![image](https://user-images.githubusercontent.com/17538895/218324348-5969656e-2330-40fb-a38b-ea5d5092a2c3.png)
 
-
 5.	Eject USB from PC, plug it in IHU’s USB port. 
 6.	When the script start executing, IHU shows “Wireless Charging” screen. Wait patiently for around 1 min. 
 7.	Once script ended, IHU shows Settings app. Apps is now uninstalled.
 
 ## Known Issue
-1. Steering wheel control are not working. See [this docs](SteeringButtonWorkaroundAA.md) for the workaround. 
+1. Steering wheel button are not working. See [this docs](SteeringButtonWorkaroundAA.md) for the workaround. 
 2. Intermediate issue with Autokit 2022.06.27.1555. 
 
 ## Important Notes
