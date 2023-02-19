@@ -68,7 +68,7 @@ https://we.tl/t-LMlQfyHhJU
 7.	Once script ended, IHU shows Settings app. Apps is now uninstalled.
 
 ## Known Issue
-1. Steering wheel control are not working in AA, CP, Spotify, etc... Only works on stock Media app. 
+1. Steering wheel control are not working. See [this docs](SteeringButtonWorkaroundAA.md) for the workaround. 
 2. Intermediate issue with Autokit 2022.06.27.1555. 
 
 ## Important Notes
