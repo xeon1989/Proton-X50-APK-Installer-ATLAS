@@ -65,13 +65,17 @@ https://we.tl/t-LMlQfyHhJU
 
 5.	Eject USB from PC, plug it in IHU’s USB port. 
 6.	When the script start executing, IHU shows “Wireless Charging” screen. Wait patiently for around 1 min. 
-7.	Once script ended, IHU shows Settings app. Apps is now uninstalled. 
+7.	Once script ended, IHU shows Settings app. Apps is now uninstalled.
+
+## Known Issue
+1. Steering wheel control are not working in AA, CP, Spotify, etc... Only works on stock Media app. 
+2. Intermediate issue with Autokit 2022.06.27.1555. 
 
 ## Important Notes
 1. If you are working with MacOS, read [this additional steps](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/issues/5) by fevernova90.
-1. QDLink will be disabled as it clashes with Android Auto wired. In case you need QDLink, Uninstall script will re-enable it. 
-2. It is recommended to disable notification of some apps such as Android Auto and Spotify. 
-3. If you installed apps with any method other than this Installation Script, please DO NOT PROCEED with this scripts. The Installation / Uninstallation script WILL NOT WORK as it is not compatible.
+2. QDLink will be disabled as it clashes with Android Auto wired. In case you need QDLink, Uninstall script will re-enable it. 
+3. It is recommended to disable notification of some apps such as Android Auto and Spotify. 
+4. If you installed apps with any method other than this Installation Script, please DO NOT PROCEED with this scripts. The Installation / Uninstallation script WILL NOT WORK as it is not compatible.
 
 ## TODO
 - Optimization of ATLAS
