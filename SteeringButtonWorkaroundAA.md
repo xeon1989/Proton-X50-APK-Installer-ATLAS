@@ -1,6 +1,6 @@
-# Workaround of Steering Button control for Android Auto
+# Workaround of Steering Button control for Android Auto / CarPlay. 
 
-This serve as workaround for enabling Steering Button control. It's complex, but works, nevertheless. 
+This serve as workaround for enabling Steering Button control for Android Auto / CarPlay or any Media playing on mobile phone. It's complex, but works, nevertheless. 
 
 While we have permanent solution (if there's one 😔 ), try following method:
 
