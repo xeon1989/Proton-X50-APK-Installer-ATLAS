@@ -78,4 +78,5 @@ https://we.tl/t-t1CaMUn3a8
 
 ## TODO
 - Optimization of ATLAS
-- Instruction for Android Auto to use with wheel buttons (next/prev) and disable notification.
+- ~~Instruction for Android Auto to use with wheel buttons (next/prev) and disable notification.~~ [Instruction available here](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/SteeringButtonWorkaroundAA.md)
+- Search for better replacement of YT Premium
