@@ -33,7 +33,7 @@ Following apps are included.
 1.	Download installation script with following link and unzip the file.
 
 
-https://we.tl/t-VKS4Z5sqUh
+https://we.tl/t-0Fyl8miy59
 
 
 2.	Backup your file in USB, then format USB drive to file system FAT32.
