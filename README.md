@@ -53,7 +53,7 @@ https://we.tl/t-VKS4Z5sqUh
 2.	Download uninstallation script with following link and unzip the file.
 
 
-https://we.tl/t-LMlQfyHhJU
+https://we.tl/t-t1CaMUn3a8
 
 
 
