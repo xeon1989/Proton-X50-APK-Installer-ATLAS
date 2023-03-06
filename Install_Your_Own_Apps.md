@@ -1,7 +1,13 @@
 # Before you start
 - This guide meant for advance user.
-- Some apps might not works on IHU, please test on your own. I can't answer why it's not working...
+- You do not need to run standard script beforehand, you can just install your APK with this script. 
+- Some apps might not works on IHU, please test on your own. I can't tell why it's not working...
 - Strictly follow the steps. In case you break your IHU (although almost impossible if you adhere to the guide), I can't fix for you. :)
+
+
+# What it does
+- You prepare your own app and the script install it for you.
+- Script also disables OTA functionality and QDLink. 
 
 # Prepare the tools
 - [7-Zip](https://www.7-zip.org/)
@@ -59,7 +65,10 @@
 13. Now you have prepared your USB! Place content inside "install" in FAT32 formatted USB and plug to USB. Rest of steps are the same as standard installation.
 14. If you want to reuse the USB after executing files, rename folder "b832bc61472727635baffcf25dd28e9f239273e2_done" to "b832bc61472727635baffcf25dd28e9f239273e2". 
 
+# Uninstall app custom app
 
+1. Delete or move files in your USB drive, then copy content of /Custom App/uninstall/ to USB drive.
+2. Plug it in IHU and wait for reboot. 
 
 
 
