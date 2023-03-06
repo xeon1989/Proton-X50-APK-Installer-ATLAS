@@ -1,6 +1,3 @@
-# WIP
-
-
 ## General
 1. Disable notification in OpenHiddenSettings - Notification - App, turn off for Android Auto, Spotify and any apps which you do not wish to see Notifications.
 2. Enable back button with "Back Button" app. 
