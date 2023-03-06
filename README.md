@@ -1,3 +1,11 @@
+# Important!
+
+ACO patched it in latest Firmware version. 
+If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards, most probably this won't works for you.
+There are no way to install app at the moment. 
+
+---
+
 The script only works in newer ATLAS verion 617 / 618, you will need to update if you are running on older ATLAS version. GKUI see [here](https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI).
 
 If the script helps you, feel free to support me at Ko-Fi. https://ko-fi.com/xeon1989
