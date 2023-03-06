@@ -1,19 +1,28 @@
-# Important!
+# Important Update:
 
-6-Mar-2023:
+**6-Mar-2023:**
+
 ACO patched it in latest Firmware version. 
 If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards, most probably this won't works for you.
 There are no way to install app at the moment. 
 
----
+**7-Mar-2023:**
 
-The script only works in newer ATLAS verion 617 / 618, you will need to update if you are running on older ATLAS version. GKUI see [here](https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI).
+Now you can install your own app with this guide.
+
+https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md
+
+---
 
 If the script helps you, feel free to support me at Ko-Fi. https://ko-fi.com/xeon1989
 
 # What is this?
 
+The script only works in newer ATLAS verion 617 / 618, you will need to update if you are running on older ATLAS version. GKUI see [here](https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI).
+
 The script to install apps on Proton X50 IHU running on ATLAS version 617 / 618 for all model.
+
+[If you want to install your own app, click here.](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md)
 
 Following apps are included.
 
@@ -26,13 +35,6 @@ Following apps are included.
 -	VLC for Android
 -	Waze
 -	Youtube Premium + MicroG
-
-|  |  |  |
-| :------: | :------: | :------: |
-| ![image](https://user-images.githubusercontent.com/17538895/218326292-b72d3841-f7c3-4295-83b9-865408cc607a.png) | ![image](https://user-images.githubusercontent.com/17538895/218326308-1be8bc9d-ca98-4576-a5e9-106017b4e8b1.png) | ![image](https://user-images.githubusercontent.com/17538895/218326316-45a299ac-ad9e-436a-90df-93d85fdb2449.png) |
-| ![image](https://user-images.githubusercontent.com/17538895/218326449-0580d6c7-3a98-437d-9980-97e274c4e449.png) | ![image](https://user-images.githubusercontent.com/17538895/218326454-d9c33978-267c-454d-a15e-a1deb5468311.png) | ![image](https://user-images.githubusercontent.com/17538895/218326463-5e182ceb-91c1-4408-b438-6c5525decc9c.png) |
-| ![image](https://user-images.githubusercontent.com/17538895/218326482-b29cbf4f-8e1b-406a-aca5-ad3add5380e3.png) | ![image](https://user-images.githubusercontent.com/17538895/218326490-bfe4528c-2785-4f91-ae0a-28bd946f81b8.png) | ![image](https://user-images.githubusercontent.com/17538895/218326496-bfb7f8fa-bf9a-4fd2-a0b1-e09ba039585b.png) |
-
 
 ## Before you start
 - If you updating from GKUI to ATLAS and you sideloaded in GKUI, to be on safe side, it's recommended to uninstall before proceed.
