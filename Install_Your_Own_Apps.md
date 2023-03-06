@@ -1,6 +1,6 @@
 # Before you start
 - This guide meant for advance user.
-- Some apps might not works on IHU, please test on your own.
+- Some apps might not works on IHU, please test on your own. I can't answer why it's not working...
 - Strictly follow the steps. In case you break your IHU (although almost impossible if you adhere to the guide), I can't fix for you. :)
 
 # Prepare the tools
