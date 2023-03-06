@@ -1,5 +1,6 @@
 # Important!
 
+6-Mar-2023:
 ACO patched it in latest Firmware version. 
 If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards, most probably this won't works for you.
 There are no way to install app at the moment. 
