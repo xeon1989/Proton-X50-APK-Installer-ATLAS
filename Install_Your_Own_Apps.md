@@ -56,7 +56,8 @@
 ![image](https://user-images.githubusercontent.com/17538895/223186050-6974e98f-216a-4825-91ab-2e1918aa240e.png)
 
 11. Open "lib" folder, rename as follow. For other folder such as x86*, delete it. 
-| If you see | Rename to: |
+
+| If you see this: | Rename to: |
 |------------|------------|
 | armeabi-*  | arm        |
 | arm64-*    | arm64      |
