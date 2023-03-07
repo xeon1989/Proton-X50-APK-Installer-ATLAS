@@ -12,7 +12,7 @@
 # Prepare the tools
 - [7-Zip](https://www.7-zip.org/)
 - [APK-Info 1.35](https://github.com/Enyby/APK-Info/releases/download/1.35/APK-Info-1.35-03.07.2019.zip)
-- [Custom App Script](https://drive.google.com/file/d/1yJ_W9X9XQjLes67SkI6Z7iP9fYo7Bms3/view?usp=share_link)
+- [Custom App Script](https://drive.google.com/file/d/1KQ3amzdn-Ho5mOoD2bKNEq0Il4zcE81V/view?usp=share_link)
 
 
 # Prepare your list of apps
@@ -63,7 +63,7 @@
 | arm64-*    | arm64      |
 
 12. Repeat Step 6 - 11 for all downloaded APK file.
-13. Now you have prepared your USB! Place content inside "install" in FAT32 formatted USB and plug to USB. Rest of steps are the same as standard installation.
+13. Now you have prepared your USB! Place content inside "install" folder in FAT32 formatted USB and plug to USB. Rest of steps are the same as standard installation.
 14. If you want to reuse the USB after executing files, rename folder "b832bc61472727635baffcf25dd28e9f239273e2_done" to "b832bc61472727635baffcf25dd28e9f239273e2". 
 
 # Uninstall app custom app
