@@ -1,4 +1,4 @@
-# Important Update:
+# Important Updates:
 
 **6-Mar-2023:**
 
