@@ -6,12 +6,6 @@ ACO patched it in latest Firmware version.
 If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards, most probably this won't works for you.
 There are no way to install app at the moment. 
 
-**7-Mar-2023:**
-
-Now you can install your own app with this guide.
-
-https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md
-
 ---
 
 If the script helps you, feel free to support me at Ko-Fi. https://ko-fi.com/xeon1989
