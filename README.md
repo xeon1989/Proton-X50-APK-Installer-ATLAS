@@ -14,9 +14,9 @@ If the script helps you, feel free to support me at Ko-Fi. https://ko-fi.com/xeo
 
 The script only works in newer ATLAS verion 617 / 618, you will need to update if you are running on older ATLAS version. GKUI see [here](https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI).
 
-The script to install apps on Proton X50 IHU running on ATLAS version 617 / 618 for all model.
+The script to install set of frequently used apps on Proton X50 IHU running on ATLAS for all model.
 
-[If you want to install your own app, click here.](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md)
+If you want to install your own app, [click here.](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md)
 
 Following apps are included.
 
