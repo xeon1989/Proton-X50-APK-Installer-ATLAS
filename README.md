@@ -16,7 +16,7 @@ The script only works in newer ATLAS verion 617 / 618, you will need to update i
 
 The script to install set of frequently used apps on Proton X50 IHU running on ATLAS for all model.
 
-If you want to install your own app, [click here.](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md)
+If you want to add your own selection of app, [click here.](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md)
 
 Following apps are included.
 
