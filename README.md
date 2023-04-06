@@ -1,5 +1,10 @@
 # Important Updates:
 
+**7-Apr-2023:**
+
+Youtube seems having issue, so I replaced it with NewPipe.
+Additionally added Youtube Vanced Music, feel free to feedback in case of issues. 
+
 **6-Mar-2023:**
 
 ACO patched it in latest Firmware version. 
@@ -28,7 +33,9 @@ Following apps are included.
 -	Spotify
 -	VLC for Android
 -	Waze
--	Youtube Premium + MicroG
+-	~~Youtube Premium +~~ MicroG
+- Youtube Vanced Music<sup>new</sup>
+- Newpipenew<sup>new</sup>
 
 ## Before you start
 - If you updating from GKUI to ATLAS and you sideloaded in GKUI, to be on safe side, it's recommended to uninstall before proceed.
@@ -38,7 +45,7 @@ Following apps are included.
 1.	Download installation script with following link and unzip the file.
 
 
-https://drive.google.com/file/d/1G_pOCKwGEQ2AxBOpJPTtZFtimHJc3ijn/view?usp=share_link
+https://drive.google.com/file/d/1uZto1aHv4jV8OL-WlCwo-ppYibdvGDya/view?usp=sharing
 
 
 2.	Backup your file in USB, then format USB drive to file system FAT32.
@@ -84,4 +91,3 @@ https://drive.google.com/file/d/1BPeV35rgXE4pUyVp8rCJx1Z2WupWAROh/view?usp=share
 ## TODO
 - Optimization of ATLAS
 - ~~Instruction for Android Auto to use with wheel buttons (next/prev) and disable notification.~~ [Instruction available here](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/SteeringButtonWorkaroundAA.md)
-- Search for better replacement of YT Premium
