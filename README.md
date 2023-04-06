@@ -3,12 +3,18 @@
 **7-Apr-2023:**
 
 Youtube seems having issue, so I replaced it with NewPipe.
+
 Additionally added Youtube Vanced Music, feel free to feedback in case of issues. 
+
+Added [Optimization](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Optimization.md). 
+<br><br>
 
 **6-Mar-2023:**
 
 ACO patched it in latest Firmware version. 
+
 If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards, most probably this won't works for you.
+
 There are no way to install app at the moment. 
 
 ---
@@ -89,5 +95,5 @@ https://drive.google.com/file/d/1BPeV35rgXE4pUyVp8rCJx1Z2WupWAROh/view?usp=share
 4. If you installed apps with any method other than this Installation Script, please DO NOT PROCEED with this scripts. The Installation / Uninstallation script WILL NOT WORK as it is not compatible.
 
 ## TODO
-- Optimization of ATLAS
-- ~~Instruction for Android Auto to use with wheel buttons (next/prev) and disable notification.~~ [Instruction available here](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/SteeringButtonWorkaroundAA.md)
+- [Instruction for Optimization of ATLAS](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Optimization.md)<sup>done</sup>
+- ~~Instruction for Android Auto to use with wheel buttons (next/prev) and disable notification.~~ [Instruction available here](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/SteeringButtonWorkaroundAA.md))<sup>done</sup>
