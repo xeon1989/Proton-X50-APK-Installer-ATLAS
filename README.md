@@ -41,7 +41,7 @@ Following apps are included.
 -	Waze
 -	~~Youtube Premium +~~ MicroG
 - Youtube Vanced Music<sup>new</sup>
-- Newpipenew<sup>new</sup>
+- Newpipe<sup>new</sup>
 
 ## Before you start
 - If you updating from GKUI to ATLAS and you sideloaded in GKUI, to be on safe side, it's recommended to uninstall before proceed.
