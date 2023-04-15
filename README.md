@@ -1,5 +1,13 @@
 # Important Updates:
 
+**15-Apr-2023:**
+
+If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards and really wanted to install apps in IHU, you can [flash ATLAS version 617v1 / 618v1 with following guide](https://github.com/xeon1989/Proton-X50-IHU-Upgrade-Downgrade/blob/main/README.md). <br><br>
+
+**13-Apr-2023:**
+
+If you want to avoid applying changes on IHU, you may use this [Modded QDLink](https://github.com/xeon1989/QDLink-Unlocked) for less restricted experience. <br><br>
+
 **7-Apr-2023:**
 
 Youtube seems having issue, so I replaced it with NewPipe.
