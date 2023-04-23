@@ -53,6 +53,13 @@ Since the weather forecast from my phone much more correct than this, I choose t
 [disable Weather.zip](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/files/11172607/disable.Weather.zip)
 <br><br>
 
+### Disable All-in-One 
+
+Combing everything above? I heard you. 
+
+[disable All Apps.zip](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/files/11303130/disable.All.Apps.zip)
+<br><br>
+
 ### Reset All
 
 In case you want to restore the app you disabled above, run this.
