@@ -79,7 +79,7 @@ https://drive.google.com/file/d/1uZto1aHv4jV8OL-WlCwo-ppYibdvGDya/view?usp=shari
 2.	Download uninstallation script with following link and unzip the file.
 
 
-https://drive.google.com/file/d/1BPeV35rgXE4pUyVp8rCJx1Z2WupWAROh/view?usp=share_link
+https://drive.google.com/file/d/1-Bm6H5dBCYvpLrAVeWJcQXEXnoMQVE1U/view?usp=share_link
 
 
 
