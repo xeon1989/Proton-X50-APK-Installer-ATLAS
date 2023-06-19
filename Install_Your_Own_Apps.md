@@ -12,7 +12,7 @@
 # Prepare the tools
 - [7-Zip](https://www.7-zip.org/)
 - [APK-Info 1.35](https://github.com/Enyby/APK-Info/releases/download/1.35/APK-Info-1.35-03.07.2019.zip)
-- [Custom App Script](https://drive.google.com/file/d/1KQ3amzdn-Ho5mOoD2bKNEq0Il4zcE81V/view?usp=share_link)
+- [Custom App Script](https://drive.google.com/file/d/1EpvxZOyXnMC-YOJfu41RYuFS_HK6idGg/view?usp=sharing)
 
 
 # Prepare your list of apps
