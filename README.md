@@ -1,5 +1,10 @@
 # Important Updates:
 
+
+**17-Dec-2023:**
+
+TeamNewPipe stops supporting NewPipe Legacy, therefore the Installation script has been updated with standard NewPipe. In case you want to reinstall NewPipe only, use [this Reinstaller to Uninstall and Reinstall to NewPipe version 0.25.2](https://drive.google.com/file/d/112xlbLuzMN0xytWAPEN6jmsa0y-YkRfQ/view?usp=sharing). <br><br>
+
 **15-Apr-2023:**
 
 If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards and really wanted to install apps in IHU, you can [flash ATLAS version 617v1 / 618v1 with following guide](https://github.com/xeon1989/Proton-X50-IHU-Upgrade-Downgrade/blob/main/README.md). <br><br>
