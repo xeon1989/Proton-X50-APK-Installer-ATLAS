@@ -1,34 +1,15 @@
 # Important Updates:
 
+**14-Feb-2024:**
+<br>(1) Autokit has been updated to version 2023.12.25.1107, **now supporting Steering Control (Next / Previous) button!**
 
-**17-Dec-2023:**
+I have tested it with CCPA on Android Auto, if you are using CarPlay, please let me know if it runs well with CarPlay.<br><br>
 
-TeamNewPipe stops supporting NewPipe Legacy, therefore the Installation script has been updated with standard NewPipe. In case you want to reinstall NewPipe only, use [this Reinstaller to Uninstall and Reinstall to NewPipe version 0.25.2](https://drive.google.com/file/d/112xlbLuzMN0xytWAPEN6jmsa0y-YkRfQ/view?usp=sharing). <br><br>
 
-**15-Apr-2023:**
+(2) With my newborn joining my family, I will be spending less time maintaining this repo. Nevertheless, feel free to susbmit an Issue, I will review them whenever I can sneak im some time. <br><br>
 
-If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards and really wanted to install apps in IHU, you can [flash ATLAS version 617v1 / 618v1 with following guide](https://github.com/xeon1989/Proton-X50-IHU-Upgrade-Downgrade/blob/main/README.md). <br><br>
+All past notices has been [archived here](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/%5BArchived%5D%20Notice.md). 
 
-**13-Apr-2023:**
-
-If you want to avoid applying changes on IHU, you may use this [Modded QDLink](https://github.com/xeon1989/QDLink-Unlocked) for less restricted experience. <br><br>
-
-**7-Apr-2023:**
-
-Youtube seems having issue, so I replaced it with NewPipe.
-
-Additionally added Youtube Vanced Music, feel free to feedback in case of issues. 
-
-Added [Optimization](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Optimization.md). 
-<br><br>
-
-**6-Mar-2023:**
-
-ACO patched it in latest Firmware version. 
-
-If you updated to ATLAS version 617 / 618 from 2-Mar-2023 onwards, most probably this won't works for you.
-
-There are no way to install app at the moment. 
 
 ---
 
@@ -36,29 +17,23 @@ If the script helps you, feel free to support me at Ko-Fi. https://ko-fi.com/xeo
 
 # What is this?
 
-The script only works in newer ATLAS verion 617 / 618, you will need to update if you are running on older ATLAS version. GKUI see [here](https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI).
+A script installing set of apps that is currently working only in Proton X50 IHU running on ATLAS verion 617 / 618. For GKUI, see [here](https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI).
 
-The script to install set of frequently used apps on Proton X50 IHU running on ATLAS for all model.
-
-If you want to add your own selection of app, [click here.](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md)
+To customize your own set of app, [see here.](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Install_Your_Own_Apps.md)
 
 Following apps are included.
 
--	Android Auto (Head Unit Reloaded) ([Make sure you purchase HUR to show your support!](https://www.b3itlabs.com/prod.php?id=1))
--	Autokit 2022 (Carlinkit required)
+-	Android Auto (Head Unit Reloaded) ([Modded from HUR, be sure to show your support!](https://www.b3itlabs.com/prod.php?id=1))
+-	Autokit 2023.12.25.1107 (Carlinkit required)
 -	Back button
 -	Google Maps
 -	Open Hidden Settings  
 -	Spotify
 -	VLC for Android
 -	Waze
--	~~Youtube Premium +~~ MicroG
-- Youtube Vanced Music<sup>new</sup>
-- Newpipe<sup>new</sup>
-
-## Before you start
-- If you updating from GKUI to ATLAS and you sideloaded in GKUI, to be on safe side, it's recommended to uninstall before proceed.
-
+-	MicroG
+- Youtube Vanced Music
+- Newpipe
 
 ## Install Apps
 1.	Download installation script with following link and unzip the file.
@@ -98,15 +73,10 @@ https://drive.google.com/file/d/1-Bm6H5dBCYvpLrAVeWJcQXEXnoMQVE1U/view?usp=share
 7.	Once script ended, IHU shows Settings app. Apps is now uninstalled.
 
 ## Known Issue
-1. Steering wheel button are not working. See [this docs](SteeringButtonWorkaroundAA.md) for the workaround. 
-2. Intermediate issue with Autokit 2022.06.27.1555. 
+1. Steering wheel button are not working. See [this docs](SteeringButtonWorkaroundAA.md) for the workaround, or use AA/CP with Carlinkit. 
 
 ## Important Notes
 1. If you are working with MacOS, read [this additional steps](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/issues/5) by fevernova90.
 2. QDLink will be disabled as it clashes with Android Auto wired. In case you need QDLink, Uninstall script will re-enable it. 
 3. It is recommended to disable notification of some apps such as Android Auto and Spotify. 
 4. If you installed apps with any method other than this Installation Script, please DO NOT PROCEED with this scripts. The Installation / Uninstallation script WILL NOT WORK as it is not compatible.
-
-## TODO
-- [Instruction for Optimization of ATLAS](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/Optimization.md)<sup>done</sup>
-- ~~Instruction for Android Auto to use with wheel buttons (next/prev) and disable notification.~~ [Instruction available here](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/blob/main/SteeringButtonWorkaroundAA.md))<sup>done</sup>
