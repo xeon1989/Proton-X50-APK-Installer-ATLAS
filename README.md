@@ -1,7 +1,7 @@
 # Notices:
 
 **14-Feb-2024:**
-<br>(1) Autokit has been updated to version 2023.12.25.1107, **now supporting Steering Control (Next / Previous) buttons!**
+<br>(1) Autokit has been updated to [version 2023.12.25.1107](https://cn.carlinkit.com/autokit.html), **now supporting Steering Control (Next / Previous) buttons!**
 
 I have tested it with CCPA on Android Auto, if you are using CarPlay, please let me know if it runs well with CarPlay.<br><br>
 
