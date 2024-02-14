@@ -3,7 +3,10 @@
 **14-Feb-2024:**
 <br>(1) Autokit has been updated to [version 2023.12.25.1107](https://cn.carlinkit.com/autokit.html), **now supporting Steering Control (Next / Previous) buttons!**
 
-I have tested it with CCPA on Android Auto, if you are using CarPlay, please let me know if it runs well with CarPlay.<br><br>
+I have tested it with CCPA on Android Auto, if you are using CarPlay, please let me know if it runs well with CarPlay.
+
+Use this script to reinstall Autokit only. [Autokit_reinstaller.zip](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS/files/14276456/Autokit_reinstaller.zip)
+ <br><br>
 
 
 (2) With my newborn joining my family, I will be spending less time maintaining this repo. Nevertheless, feel free to submit an Issue, I will review them whenever I can sneak in some time. <br><br>
