@@ -36,7 +36,6 @@ Following apps are included.
 -	Waze
 -	MicroG
 - YouTube Vanced Music
-- Newpipe
 
 ## Install Apps
 1.	Download installation script with following link and unzip the file.
