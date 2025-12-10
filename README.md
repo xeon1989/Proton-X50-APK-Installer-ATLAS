@@ -1,5 +1,28 @@
 # Notices:
 
+**11-December-2025:**
+
+KY : Latest Newpipe 0.28.0
+[newpipe installer 0.28.0 ky.zip](https://github.com/user-attachments/files/24084773/newpipe.installer.0.28.0.ky.zip)
+
+Steps:
+
+1) Prepare a pendrive no larger than 32GB and format it to FAT32.
+
+2) Download the file and extract it. You’ll see three folders (app, b832bcxxx, b832bcxxxxxx).
+
+3) Copy all three folders into your pendrive.
+
+4) Start the car and wait for the IHU to fully boot, then insert the pendrive.
+
+5) Ignore anything that pops up on the IHU screen—just let it run automatically.
+
+6) If I remember correctly, it will restart 2–3 times: the first to delete, the second to install.
+
+7) Once installed, go to Hidden Setting → Sound & Notification → App Notification → Newpipe → Block.
+
+---
+
 **14-Feb-2024:**
 <br>(1) Autokit has been updated to [version 2023.12.25.1107](https://cn.carlinkit.com/autokit.html), **now supporting Steering Control (Next / Previous) buttons!**
 
