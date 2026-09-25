@@ -3,13 +3,13 @@
 **25-September-2026:**
 
 Hi everyone! Although this group isn’t as active as before, I still receive quite a few PMs about X50 sideloading.
-If you need any help—for example, updating apps such as SmartTube or NewPipe, uninstalling a specific app, or any other sideload-related issue—feel free to create a post under the Issues section.
-It’ll be easier for everyone to follow, and other members who have the same issue can also refer to the post, learn from it, or download the files they need.
+If you need any help—for example, updating apps such as SmartTube or NewPipe, uninstalling a specific app, or any other sideload-related issue—feel free to create a post under the Issues section. It’ll be easier for everyone to follow, and other members who have the same issue can also refer to the post, learn from it, or download the files they need.
 Thanks!
+
 Hi semua! Walaupun group ini dah tak seaktif dulu, saya masih menerima agak banyak PM mengenai X50 sideloading.
-Kalau korang perlukan bantuan—contohnya nak update app seperti **SmartTube** atau **NewPipe**, uninstall app tertentu, atau apa-apa masalah berkaitan sideloading—boleh terus create post di bahagian **Issues**.
-Dengan cara ini, lebih senang untuk semua orang follow, dan member lain yang menghadapi masalah sama pun boleh rujuk post tersebut, belajar daripada situ, atau download file yang diperlukan.
+Kalau korang perlukan bantuan—contohnya nak update app seperti **SmartTube** atau **NewPipe**, uninstall app tertentu, atau apa-apa masalah berkaitan sideloading—boleh terus create post di bahagian **Issues**. Dengan cara ini, lebih senang untuk semua orang follow, dan member lain yang menghadapi masalah sama pun boleh rujuk post tersebut, belajar daripada situ, atau download file yang diperlukan.
 Terima kasih!
+
 大家好！虽然这个群组现在没有以前那么活跃了，不过我依然还是会收到不少关于 X50 sideload 的私讯。
 如果大家需要任何帮助，例如更新 **SmartTube**、**NewPipe** 之类的 App、卸载指定 App，或者遇到其他和 sideload 有关的问题，欢迎直接到 **Issues** 那边开一个新帖子。
 这样会比较方便大家一起跟进，也让之后遇到同样问题的人可以参考、学习，或者直接下载需要的文件。
