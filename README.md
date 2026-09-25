@@ -1,7 +1,6 @@
 # Notices:
 
 **25-September-2026:**
-
 Hi everyone! Although this group isn’t as active as before, I still receive quite a few PMs about X50 sideloading.
 If you need any help—for example, updating apps such as SmartTube or NewPipe, uninstalling a specific app, or any other sideload-related issue—feel free to create a post under the Issues section. It’ll be easier for everyone to follow, and other members who have the same issue can also refer to the post, learn from it, or download the files they need.
 Thanks!
@@ -15,6 +14,7 @@ Terima kasih!
 这样会比较方便大家一起跟进，也让之后遇到同样问题的人可以参考、学习，或者直接下载需要的文件。
 谢谢大家！
 
+---
 
 **11-December-2025:**
 
