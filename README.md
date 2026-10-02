@@ -1,5 +1,99 @@
 # Notices:
 
+## 📢 2 October 2026 — Latest NewPipe Update / 最新 NewPipe 更新
+
+Hi everyone,  
+嗨大家好，
+
+I noticed that many users really need **NewPipe** and **SmartTube**.  
+发现很多用户都非常需要 **NewPipe** 和 **SmartTube** 这两个 APK。
+
+These APKs will be updated from time to time. If you notice a newer version or need an update, you can open a post in the **Issues** section of this forum and let me know.  
+这两个 APK 会不定时更新。如果你们发现有新版本，或者需要我帮忙更新，可以直接到这个 Forum 的 **Issues** 开一个帖子告诉我。
+
+When I have time, I will try my best to update it for everyone.  
+我有时间的话，会尽量帮大家更新。
+
+---
+
+## 📦 Latest NewPipe APK / 最新 NewPipe APK
+
+**Latest Version: NewPipe 0.29.1**  
+**最新版：NewPipe 0.29.1**
+
+This is currently the latest version of **NewPipe 0.29.1**.  
+这个是目前最新版本的 **NewPipe 0.29.1**。
+
+I have made it into a **NewPipe Installer**, so the script will automatically remove the old version and install the latest version.  
+我已经把它做成一个 **NewPipe Installer**，所以这个 Script 会自动删除旧版本，再安装最新版。
+
+### Step 1 — Prepare a Pendrive / 步骤 1 — 准备 Pendrive
+
+Prepare a pendrive that is **32GB or below**, then format it first.  
+准备一个 **32GB 或以下** 的 Pendrive，然后先 Format。
+
+### Step 2 — Download the ZIP File / 步骤 2 — 下载 ZIP File
+
+⬇️ **Download / 下载：**
+
+**[newpipe 0.29.0 kytang.zip](https://github.com/user-attachments/files/32966014/newpipe.0.29.0.kytang.zip)**
+
+### Step 3 — Extract the ZIP File / 步骤 3 — Extract ZIP File
+
+After downloading, extract the ZIP file.  
+下载完成后，把 ZIP File Extract 出来。
+
+You will see 3 folders:  
+你会看到 3 个 Folder：
+
+- `app`
+- `b832bc6147xxx`
+- `b832bc6147272xxx`
+
+Copy all **3 folders** into your pendrive.  
+把这 **3 个 Folder** 全部 Copy 进你的 Pendrive。
+
+### Step 4 — Start Installation / 步骤 4 — 开始安装
+
+Start your car, then plug the pendrive into the IHU USB port.  
+启动汽车后，把 Pendrive 插进 IHU 的 USB Port。
+
+The screen will automatically start running the installation process.  
+之后画面会自动跳出并开始运行安装程序。
+
+**You do not need to press anything.**  
+**什么都不需要按。**
+
+The IHU may restart around **2–3 times**.  
+IHU 大约会自动 Restart **2–3 次**。
+
+Wait until the IHU finishes restarting and the installer no longer runs automatically.  
+等到 IHU 完成 Restart，而且安装程序不再自动运行。
+
+That means the installation is complete.  
+这样就代表安装完成了。
+
+---
+
+## ⚠️ Important — After Installation / 重要 — 安装完成后
+
+After installation, please go to:  
+安装完成后，请记得进入：
+
+**Hidden Settings → Sounds & Notification → App Notification → NewPipe → BLOCK**
+
+Remember to **BLOCK NewPipe notification**.  
+记得把 **NewPipe Notification Block 掉**。
+
+Done.  
+完成。
+
+If this script does not work for you, please open a post in the **Issues** section and let me know. Thank you.  
+如果这个 Script 无法使用，请在 **Issues** 那边开贴告知我。谢谢大家。
+
+**By Ky Tang**
+
+---
 **25-September-2026:**
 Hi everyone! Although this group isn’t as active as before, I still receive quite a few PMs about X50 sideloading.
 If you need any help—for example, updating apps such as SmartTube or NewPipe, uninstalling a specific app, or any other sideload-related issue—feel free to create a post under the Issues section. It’ll be easier for everyone to follow, and other members who have the same issue can also refer to the post, learn from it, or download the files they need.
