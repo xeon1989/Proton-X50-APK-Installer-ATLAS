@@ -36,7 +36,7 @@ Prepare a pendrive that is **32GB or below**, then format it first.
 
 ⬇️ **Download / 下载：**
 
-**[newpipe 0.29.0 kytang.zip](https://github.com/user-attachments/files/32966014/newpipe.0.29.0.kytang.zip)**
+**[newpipe 0.29.1 kytang.zip](https://github.com/user-attachments/files/32966162/newpipe.0.29.1.kytang.zip)**
 
 ### Step 3 — Extract the ZIP File / 步骤 3 — Extract ZIP File
 
