@@ -1,5 +1,133 @@
 # Notices:
 
+# 📺 SmartTube Update 32.56 / SmartTube 更新 32.56
+
+For this SmartTube update, I will not make it into an installer.  
+这次 SmartTube 更新，我不会把它做成 Installer。
+
+The reason is that some older versions and the recent versions use slightly different software structures and codes.  
+因为一些更旧的版本和最近几个版本，在 Software Structure 和 Code 方面有一点不同。
+
+To make it safer and easier for different car owners, I have separated the uninstall process into **2 different scripts**.  
+为了其他车主使用时比较安全和方便，我把删除 SmartTube 的部分分成 **2 个不同的 Script**。
+
+---
+
+## Step 1 — Prepare a Pendrive / 步骤 1 — 准备 Pendrive
+
+Prepare a pendrive that is **32GB or below**, then format it first.  
+准备一个 **32GB 或以下** 的 Pendrive，然后先 Format。
+
+---
+
+## Step 2 — Download SmartTube Uninstall Script / 步骤 2 — 下载 SmartTube 删除 Script
+
+Download **Uninstall SmartTube Script V1** first.  
+首先下载 **Uninstall SmartTube Script V1**。
+
+⬇️ **Download / 下载：**
+
+**[uninstall smart tube v1.zip](https://github.com/user-attachments/files/32966943/uninstall.smart.tube.v1.zip)**
+
+If V1 cannot remove your current SmartTube version, then use **Uninstall SmartTube Script V2**.  
+如果 V1 无法删除你目前的 SmartTube 版本，再使用 **Uninstall SmartTube Script V2**。
+
+⬇️ **Download / 下载：**
+
+**[uinstall smartube v2.zip](https://github.com/user-attachments/files/32966950/uinstall.smartube.v2.zip)**
+
+---
+
+## Step 3 — Run the Uninstall Script / 步骤 3 — 运行删除 Script
+
+After downloading, extract the ZIP file.  
+下载完成后，把 ZIP File Extract 出来。
+
+You will see a folder named similar to:  
+你会看到一个类似这样的 Folder：
+
+- `b832bcxxxxxxx`
+
+Copy this folder into your pendrive.  
+把这个 Folder Copy 进你的 Pendrive。
+
+Start your car, then plug the pendrive into the IHU USB port.  
+启动汽车后，把 Pendrive 插进 IHU 的 USB Port。
+
+If anything pops up on the screen, you do not need to press anything. Just let the script run automatically.  
+如果画面跳出任何东西，都不需要按，只需要让 Script 自动运行。
+
+After the process is completed, the IHU will restart.  
+运行完成后，IHU 会 Restart。
+
+After restart, check whether the old SmartTube has been removed.  
+Restart 后，检查旧的 SmartTube 是否已经被删除。
+
+If SmartTube is still there, format the pendrive again and repeat the same process using **Uninstall SmartTube Script V2**.  
+如果 SmartTube 还在，请再次 Format Pendrive，然后使用 **Uninstall SmartTube Script V2** 重复同样的步骤。
+
+---
+
+## Step 4 — Install SmartTube 32.56 / 步骤 4 — 安装 SmartTube 32.56
+
+After the old SmartTube has been successfully removed, format the pendrive again.  
+确认旧的 SmartTube 已经成功删除后，再次 Format Pendrive。
+
+Download the latest **SmartTube 32.56**.  
+然后下载最新版 **SmartTube 32.56**。
+
+⬇️ **Download / 下载：**
+
+**https://drive.google.com/file/d/1xWLFV_a6bTuVwZ8FGZZWHsOrpfe4WXPf/view?usp=sharing**
+
+After downloading, extract the ZIP file.  
+下载完成后，把 ZIP File Extract 出来。
+
+You will see **2 folders**:  
+你会看到 **2 个 Folder**：
+
+- `app`
+- `b832bcxxxxxxx`
+
+Copy both folders into your pendrive.  
+把这两个 Folder Copy 进你的 Pendrive。
+
+Start your car and plug the pendrive into the IHU USB port again.  
+启动汽车后，再次把 Pendrive 插进 IHU 的 USB Port。
+
+Let the installation run automatically.  
+让安装程序自动运行。
+
+You do not need to press anything.  
+什么都不需要按。
+
+After the IHU restarts, check whether **SmartTube 32.56** has been installed successfully.  
+IHU Restart 后，检查 **SmartTube 32.56** 是否已经成功安装。
+
+---
+
+## ⚠️ Important — After Installation / 重要 — 安装完成后
+
+After installation, please go to:  
+安装完成后，请记得进入：
+
+**Hidden Settings → Sounds & Notification → App Notification → SmartTube → BLOCK**
+
+Remember to **BLOCK SmartTube notification**.  
+记得把 **SmartTube Notification Block 掉**。
+
+Done.  
+完成。
+
+Thank you.  
+谢谢大家。
+
+If this script does not work for you, please open a post in the **Issues** section and let me know.  
+如果这个 Script 无法使用，请在 **Issues** 那边开贴告知我。
+
+**By Ky Tang**
+
+
 ## 📢 2 October 2026 — Latest NewPipe Update / 最新 NewPipe 更新
 
 Hi everyone,  
